@@ -4,7 +4,7 @@
 <script>
 var w = '1000'; //寬度
 var h = '500'; //高度
-document.write('<iframe src="//www.nettvplus.live/api" width="'+w+'" height="'+h+'" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" border="0"></iframe>');
+document.write('<iframe src="//www.nettv.live/api" width="'+w+'" height="'+h+'" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" border="0"></iframe>');
 </script>
 <!--Nettv.Live代碼結束-->
 
