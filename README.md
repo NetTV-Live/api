@@ -1,11 +1,17 @@
 
 整體調用：
 <!--Nettv.Liv代碼開始-->
+
 <script>
+  
 var w = '1000'; //寬度
+
 var h = '500'; //高度
+
 document.write('<iframe src="//www.nettv.live/api" width="'+w+'" height="'+h+'" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" border="0"></iframe>');
+
 </script>
+
 <!--Nettv.Live代碼結束-->
 
 單個頻道調用：http://www.nettv.live/api/channel.php?aid=xxx
